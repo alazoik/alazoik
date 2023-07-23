@@ -20,18 +20,10 @@ A Junior data analyst with a great desire to develop experience. I have good kno
 </p>
 
 
-### Key points
-*   Creator of [Javarush Community](https://github.com/codegymcommunity) and [Template Repository](https://github.com/template-repository) organizations.
-*   Creator and author of [romankh3](https://t.me/romankh3) Telegram channel. Subscribe to receive messages about my open-source activities.
-*   I write posts about software development.
-*   Currently working in [Epam Systems](https://www.linkedin.com/company/epam-systems/)
-
 ## 🛠 Technology Stack
 *   Python
 *   MySQL, SQL
 *   GitHub
-
-### My opensource projects
 
 
 <div align="center" style="margin: 40px 0">
